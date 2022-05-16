@@ -1,0 +1,18 @@
+img {width: 400px;
+    height: auto;
+}
+
+.heading,
+.heading.two {
+    background-color: red;
+    color: orange;
+    font-weight: bold;
+    font-style: italic;
+}
+
+ul,
+ol {background-color: yellow;
+color: red;}
+
+p {color: red;}
+
